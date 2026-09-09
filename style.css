@@ -180,6 +180,7 @@ a {
   justify-content: center;
   transform: rotate(-2deg);
   overflow: hidden;
+object-position: center top;
 }
 
 .profile-placeholder i {
