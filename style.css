@@ -158,9 +158,9 @@ a {
 
 /* PROFILE */
 .profile-placeholder {
-  width: 380px;
-  height: 480px;
-  border-radius: 30px;
+  width: 320px;
+  height: 427px;
+  border-radius: 35px;
   overflow: hidden;
   border: 4px solid #d4af37;
   margin: auto;
@@ -176,7 +176,6 @@ a {
   object-position: center top;
   display: block;
 }
-
 .profile-placeholder i {
   font-size: 8rem;
   color: var(--gold);
@@ -613,7 +612,7 @@ a {
     }
     @media (max-width: 576px) {
   .profile-placeholder {
-    width: 300px;
-    height: 400px;
+    width: 320px;
+    height: 427px;
   }
     }
